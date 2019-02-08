@@ -9,7 +9,7 @@ joinUs:
     color: '#333'
     href: 'https://tshop.arklabs.us/en/login'
   logo: /img/logo.svg
-  title: Join us as we build a better maker space on the blockchain
+  title: 'JOIN THE DECENTRALIZED AUTONOMOUS EXPONENTIAL ORGANIZATION '
 economy:
   backgroundImage: /img/repairing-economy-background.png
   button:
