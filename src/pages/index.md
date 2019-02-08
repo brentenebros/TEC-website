@@ -9,34 +9,38 @@ joinUs:
     color: '#333'
     href: 'https://tshop.arklabs.us/en/login'
   logo: /img/logo-round.svg
-  title: 'JOIN THE WORLD''S ONLY DECENTRALIZED AUTONOMOUS EXPONENTIAL ORGANIZATION '
+  title: 'JOIN THE WORLD''S ONLY DECENTRALIZED EXPONENTIAL ORGANIZATION '
 economy:
-  backgroundImage: /img/world-map.gif
+  backgroundImage: /img/network.png
   button:
-    background: '#d6e600'
+    background: '#50e3d4'
     children: Download WhitePaper
     color: '#333'
     href: /img/favicon.ico
   columns:
     - body: >-
-        50,000 manufacturing factories have closed due to trade deals in the
-        past 8 years. This leaves many companies and inventors without the
-        proper tools to create their vision.
-      title: '50,000'
+        Over 1,400 contributing members have rallied behind the rLoop concept
+        and philosophy. The community includes passionate and motivated
+        designers, engineers, makers, and manufacturers. All collaborating
+        together, free to contribute in whatever capacity they choose, and
+        united by a vision to create a better world through innovation.
+      title: '1,400'
     - body: >-
-        There are over 30,000 utility patent applications tied in the United
-        States every year. This number has increased by 30% since 2010. Proving
-        that invention is alive and well.
-      title: '30,000'
+        Our community represents 59 countries, allowing a diversity of
+        perspectives. Studies show a diverse group of problem solvers are more
+        likely to outperform a team of experts. rLoop is a truly decentralized
+        community.
+      title: '59'
     - body: >-
-        In the United States alone Science & Engineering undergraduate degrees
-        have risen 19% since 2009. Graduate Degrees in Engineering are up 48% .
-      title: 19%
+        The work of the community has gained international acclaim and garnered
+        rLoop four International Design Awards, including two from SpaceX and
+        one from the Dubai Future Foundation.
+      title: '4'
   lowerText: >-
-    Just as web based start ups began in coffee shops offering free wifi, the
-    new collar industry of engineering start ups requires access to the tools
-    found in today’s makerspaces. Maker’s Ark token connects Makers to the
-    technology.
+    By cross-connecting emergent fields of technology and making them accessible
+    to everyone, rLoop creates an ecosystem of limitless and permissionless
+    innovation. The rLoop Token (RLP) is the fuel to power this network of
+    minds.
   title: AT THE FOREFRONT OF INNOVATION
   upperText: >-
     Knowledge is power. 
