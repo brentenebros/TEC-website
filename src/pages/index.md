@@ -78,7 +78,7 @@ product:
     - image: /img/rloop_brollselects_1.00_07_07_23.still005.jpg
       text: rBRIDGE
       url: 'https://www.rloop.org/rbridge'
-  subtitle: A HISTORY OF ENABLING RADICAL COLLABORATIONS.
+  subtitle: ''
   title: CONNECT. COLLABORATE. INNOVATE.
 perks:
   columns:
@@ -107,7 +107,7 @@ company:
     working platforms associated with a physical retail location in the world
     with locations in San Francisco ( and others? ) accepting the token as a
     form of payment for services, education, retail, and workspace.
-  logo: /img/ark-labs.svg
+  logo: /img/rloop-logo.jpg
   panels:
     - progress: 10
       text: >-
