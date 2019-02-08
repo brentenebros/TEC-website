@@ -1,6 +1,6 @@
 ---
 templateKey: homepage
-logo: /img/logo.svg
+logo: /img/logo-round.svg
 joinUs:
   backgroundImage: /img/join-us-background.png
   button:
