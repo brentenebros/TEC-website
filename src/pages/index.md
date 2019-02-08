@@ -128,49 +128,54 @@ company:
 dpos:
   backgroundImage: /img/blockchain.png
   body: >-
-    The Maker’s Ark fork from the Ark blockchain and may be added to any Ark
-    desktop wallet using the MAKE network hash ID and the instructions at
-    blog.ark.io. A TheShop.Build branded Ark compatible wallet is also available
-    for download at TheShop.Build for desktop and mobile devices.
+    The rLoop Network is a fork of the Ark blockchain. An rLoop branded wallet
+    is available for download at rLoop.org for both desktop and mobile devices,
+    and rLoop may be added to any Ark desktop wallet using the RLP network hash
+    ID.
 
-    Makers Ark is a Delegated Proof of Stake, DPoS, blockchain, in which 51
-    active delegates are voted on by token holders to secure and maintain the
-    network. As such, the MAKE network is ultimately owned and controlled by the
-    users through their voting for the delegates. There is an inflation rate
-    determined by a constant 2 MAKE tokens per block forged by the delegate
+
+
+    rLoop is a Delegated Proof of Stake (DPoS) blockchain, in which XX active
+    delegates are voted on by token holders to secure and maintain the network.
+    As such, the RLP network is ultimately owned and controlled by the users
+    through their voting for the delegates. There is an inflation rate
+    determined by a constant 2 RLP tokens per block forged by the delegate
     creating the block, with a new block created every 8 seconds, resulting in
-    an initial inflation of 6.31% for the first year, 5.93% for the second year
+    an initial inflation of 6.31% for the first year, 5.93% for the second year,
     the percentage of which decreases with each subsequent year with the
-    constant creation rate of new MAKE ending with 4.02% in the 10th year. DPoS
+    constant creation rate of new RLP ending with 4.02% in the 10th year. DPoS
     has proven to be a fast, reliable, and efficient blockchain technology
     requiring far less energy and computing resources than other consensus
-    methods…
+    methods.
 
-    The Ark based wallets are very secure and easier to use than most other
+
+
+    Ark based wallets are very secure and easier to use than most other
     blockchain wallets, and do not require the download and installation of the
     entire blockchain. A hardware USB device, the Ledger Nano, is available from
-    either the Ark store, TheShop.Build, at Ark.io or Ledger.io to further
-    secure the desktop wallet from hacks and keystroke loggers, and is highly
-    recommended for MAKE and any other significant crypto holdings of supported
-    tokens, including Ark and Ark based tokens. Unlike other Ledger wallets, the
-    Ark based wallets are standalone, not requiring Chrome browser extensions or
-    use in any browser.
+    Ledger.io to further secure the desktop wallet from hacks and keystroke
+    loggers, and is highly recommended for any significant crypto holdings of
+    supported tokens, including RLP, Ark, and Ark based tokens. Unlike other
+    Ledger wallets, the Ark based wallets are standalone, not requiring Chrome
+    browser extensions or use in any browser.
 
-    The Makers Ark token is a utility token that allows access to technology
-    based products and technology based services of TheShop.Build and does not
-    represent any equity share in TheShop.Build Inc., and there is no guarantee
-    of any value other than in exchange for offerings by TheShop.Build at an
-    exchange rate to be determined by TheShop.Build which will likely vary
-    according to prevailing market conditions. There is also no guarantee that
-    Makers Ark tokens will be listed on an exchange since that is up to the
-    individual exchanges, and not under the control or determined by the Makers
-    Ark team, Inc.
+
+
+    The rLoop token is a utility token that allows access to the innovation
+    platform and certain privileges within, as well as the products, services,
+    and intellectual property that the rLoop community may offer. It does not
+    represent any equity share in rLoop Corp., and there is no guarantee of any
+    value other than in exchange for offerings by rLoop at an exchange rate to
+    be determined by rLoop which will likely vary according to prevailing market
+    conditions. There is also no guarantee that RLP tokens will be listed on an
+    exchange since that is up to the individual exchanges, and not under the
+    control or determined by rLoop.
   button:
     background: '#d6e600'
     children: Ark Blockchain DPoS
     color: '#333'
     href: '#dpos'
-  title: The Makers Ark Blockchain DPoS
+  title: The rLoop Network Blockchain
 newsletter:
   backgroundImage: /img/repairing-economy-background.png
   title: Subscribe to our newsletter
