@@ -2,7 +2,7 @@
 templateKey: homepage
 logo: /img/logo-round.svg
 joinUs:
-  backgroundImage: /img/join-us-background.png
+  backgroundImage: /img/28558896463_f6e72b3629_o.jpg
   button:
     background: '#d6e600'
     children: Join us now
