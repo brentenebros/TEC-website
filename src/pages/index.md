@@ -66,27 +66,20 @@ faq:
       question: How can I get RLP?
   title: FAQ
 product:
-  body: >-
-    Makers Ark is partnered with TheShop.Build Maker Spaces located in San
-    Francisco and San Jose. Each location will accept Makers Ark as well as
-    Bitcoin, Ethereum, Litecoin, and Ark. From State of the Art Laser Cutters to
-    3D Printers TheShop.Build offers inventors and entrepreneurs endless
-    opportunities with their products. For those who are new to Maker Spaces,
-    The Shop.Build offers a revolutionary training system that is changing the
-    traditional system for students, educators, and makers alike.
-  logo: /img/the-shop.svg
+  body: "rLoop has a history of connecting innovators with industry partners to enable radical collaborations. High quality interactions do not merely coordinate action, they stimulate innovation.\r\n\nrLoop facilitates new transitions through reliable design to build a sustainable future."
+  logo: /img/partners.png
   panels:
-    - image: /img/company-1.png
-      text: dream...
-      url: '#test'
-    - image: /img/company-2.png
-      text: learn...
-      url: '#test'
-    - image: /img/company-3.png
-      text: build...
-      url: '#test'
-  subtitle: Accepted In Brick & Mortar Maker Spaces
-  title: The Nations Leading Marketplace
+    - image: /img/hpod-black-studio_teaser_logo.jpg
+      text: HYPErLOOP
+      url: 'https://www.rloop.org/hpod'
+    - image: /img/rf-drawings_-01.jpg
+      text: rFLIGHT
+      url: 'https://www.rloop.org/rflight'
+    - image: /img/rloop_brollselects_1.00_07_07_23.still005.jpg
+      text: rBRIDGE
+      url: 'https://www.rloop.org/rbridge'
+  subtitle: A HISTORY OF ENABLING RADICAL COLLABORATIONS.
+  title: CONNECT. COLLABORATE. INNOVATE.
 perks:
   columns:
     - image: /img/group.svg
