@@ -58,19 +58,12 @@ faq:
   expandIcon: /img/faq-expand.svg
   questions:
     - answer: >-
-        You can take part by registering on the website when the presale period
-        officially starts. Payments can be made in ethereum, lisk, shift, ark or
-        bitcoin via our backoffice. Redeem will be available at TEC Sale end
-        from backoffice through button 'Redeem'. See: guide to ethereum
-        contribution
-      question: How can I take part in the TEC or Presale?
-    - answer: >-
-        You can take part by registering on the website when the presale period
-        officially starts. Payments can be made in ethereum, lisk, shift, ark or
-        bitcoin via our backoffice. Redeem will be available at TEC Sale end
-        from backoffice through button 'Redeem'. See: guide to ethereum
-        contribution
-      question: How can I take part in the TEC or Presale?
+        You can take part in the token exchange by registering on our website.
+        Exchanges for RLP will be available in Ethereum, Bitcoin, Ark, Lisk, and
+        Shift as soon as the exchange period officially starts. You'll be able
+        to redeem your RLP at the end of the TEC period through the 'Redeem'
+        button!
+      question: How can I get RLP?
   title: FAQ
 product:
   body: >-
