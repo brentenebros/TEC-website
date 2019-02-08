@@ -9,7 +9,7 @@ joinUs:
     color: '#333'
     href: 'https://tshop.arklabs.us/en/login'
   logo: /img/logo.svg
-  title: 'JOIN THE DECENTRALIZED AUTONOMOUS EXPONENTIAL ORGANIZATION '
+  title: 'JOIN THE WORLD''S ONLY DECENTRALIZED AUTONOMOUS EXPONENTIAL ORGANIZATION '
 economy:
   backgroundImage: /img/repairing-economy-background.png
   button:
@@ -268,16 +268,14 @@ partners:
       image: /img/ark-labs.svg
   title: Partners
 contact:
-  address: '231 North Star  34th Street, Suite #100 Cupertino, 98103'
+  address: ''
   socialLinks:
-    - href: 'https://facebook.com/'
+    - href: 'https://facebook.com/rloopteam'
       image: /img/facebook.svg
-    - href: 'https://twitter.com/'
+    - href: 'https://twitter.com/rLoopTeam'
       image: /img/twitter.svg
-    - href: 'https://linkedin.com/'
+    - href: 'https://www.linkedin.com/company/rloop/'
       image: /img/linked-in.svg
-    - href: 'https://google.com/'
-      image: /img/google-plus.svg
   title: Contact Us
 copyright: © 2018  Copyrights are Creative Commons
 ---
