@@ -4,14 +4,14 @@ logo: /img/logo-round.svg
 joinUs:
   backgroundImage: /img/28558896463_f6e72b3629_o.jpg
   button:
-    background: '#d6e600'
+    background: '#50e3d4'
     children: Join us now
     color: '#333'
     href: 'https://tshop.arklabs.us/en/login'
-  logo: /img/logo.svg
+  logo: /img/logo-round.svg
   title: 'JOIN THE WORLD''S ONLY DECENTRALIZED AUTONOMOUS EXPONENTIAL ORGANIZATION '
 economy:
-  backgroundImage: /img/repairing-economy-background.png
+  backgroundImage: /img/world-map.gif
   button:
     background: '#d6e600'
     children: Download WhitePaper
@@ -37,14 +37,18 @@ economy:
     new collar industry of engineering start ups requires access to the tools
     found in today’s makerspaces. Maker’s Ark token connects Makers to the
     technology.
-  title: Repairing The Global Maker Economy
+  title: AT THE FOREFRONT OF INNOVATION
   upperText: >-
-    There are many components to invention.
+    Knowledge is power. 
 
-    Although tools, techniques, technology are always evolving the problem
-    solving and hands on experience aspects to the craft remain the same. Maker
-    Spaces provide the tools, education, and technology for the inventors of
-    today. Below are a few industry facts & figures.
+    Sometimes that knowledge resides in the secrecy of closed deals and
+    pre-patent research. 
+
+    Sometimes that wisdom resides in the crowd.
+
+    The rLoop Network is a Decentralized Exponential Organization designed to
+    connect individuals and organizations to collaborate on emergent
+    technologies in ways that were never before possible.
 faq:
   backgroundImage: /img/faq-background.png
   expandIcon: /img/faq-expand.svg
