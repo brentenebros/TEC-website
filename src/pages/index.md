@@ -171,8 +171,8 @@ dpos:
     exchange since that is up to the individual exchanges, and not under the
     control or determined by rLoop.
   button:
-    background: '#d6e600'
-    children: Ark Blockchain DPoS
+    background: '#50e3d4'
+    children: Learn about DPoS
     color: '#333'
     href: '#dpos'
   title: The rLoop Network Blockchain
@@ -208,22 +208,24 @@ roadmap:
   title: Roadmap
 distribution:
   distribution:
-    - color: '#f7a825'
+    - color: '#50e3d4'
       name: Team
-      value: 30
+      value: '40'
     - color: '#e52839'
       name: Sale
-      value: 70
+      value: '40'
+    - name: Strategic Fund
+      value: '20'
   title: Token Distribution
   tranches:
-    - name: Tranch 1
-      value: 10
-    - name: Tranch 2
-      value: 20
-    - name: Tranch 3
-      value: 40
-    - name: Tranch 4
-      value: 30
+    - name: Tier 1
+      value: '20'
+    - name: Tier 2
+      value: '15'
+    - name: Tier 3
+      value: '10'
+    - name: Tier 4
+      value: '5'
 team:
   members:
     - description: CEO - Founder MAKERS ARK
